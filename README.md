@@ -81,6 +81,7 @@ I've been writing Java for more than 15 years, and I've also taught Java and Spr
   <img src="https://img.shields.io/badge/❯_Codex-242938?style=for-the-badge" alt="Codex">
 </p>
 
+<!-- Just for fun: Pac-Man contribution graph. Turn back on once GitHub Actions is unlocked on the account.
 ## Just for fun
 
 <picture>
@@ -88,5 +89,6 @@ I've been writing Java for more than 15 years, and I've also taught Java and Spr
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaocalixto/joaocalixto/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man eating my contribution graph" src="https://raw.githubusercontent.com/joaocalixto/joaocalixto/output/pacman-contribution-graph.svg">
 </picture>
+-->
 
 <p align="center"><img src="assets/footer-city.jpg" width="100%" alt="Pixel art city at night"></p>

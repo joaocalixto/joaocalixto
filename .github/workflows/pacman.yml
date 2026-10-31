@@ -1,12 +1,10 @@
 name: generate pacman contribution graph
 
 on:
-  schedule:
-    - cron: '0 0 * * *'
+  # Paused while GitHub Actions is locked on the account. To turn back on, add:
+  # schedule:
+  #   - cron: '0 0 * * *'
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   generate:
