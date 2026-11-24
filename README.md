@@ -48,26 +48,12 @@ I've been writing Java for more than 15 years, and I've also taught Java and Spr
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <img src="assets/werewolf-flipbook.gif" width="100%" alt="Flipbook: a man turning into a werewolf, in ink drawings">
-      <br><b>Werewolf NPC Generator</b>
-      <br><sub>The five forms of the werewolf, from the new landing page. Rules roll the character and the Claude API writes its story.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <img src="assets/rengoku-gaiden.jpg" width="100%" alt="Rengoku Gaiden: character in a forest with a flame health bar">
-      <br><b>Rengoku Gaiden</b>
-      <br><sub>Metroidvania action game in Godot. Maps designed room by room, art built from moodboards, and a review pass on every sprite and animation.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="assets/rengoku-map.jpg" width="100%" alt="Rengoku Gaiden stage 1 map with the rooms marked">
-      <br><b>Stage 1 map</b> · <sub>Level design for the game's rooms.</sub>
-    </td>
-  </tr>
-  <tr>
     <td width="50%"><a href="https://github.com/joaocalixto/reels-to-md"><img src="assets/card-reels-to-md.svg" width="100%" alt="reels-to-md: turns saved Instagram reels into full tutorials with ready-to-run scripts"></a></td>
-    <td width="50%"><a href="https://github.com/joaocalixto/temas-claude-code"><img src="assets/card-claude-code-themes.svg" width="100%" alt="Claude Code themes for Claude Code and iTerm2"></a></td>
+    <td width="50%"><a href="https://github.com/joaocalixto/claude-academy"><img src="assets/card-claude-academy.svg" width="100%" alt="Claude Academy: my study notes and exercises from Anthropic's Claude Academy courses"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/joaocalixto/godot-combat-tuning-workbench"><img src="assets/card-combat-workbench.svg" width="100%" alt="Godot Combat Tuning Workbench: Claude skill to tune moves, VFX and enemy AI in Godot 4"></a></td>
+    <td width="50%"><a href="https://werewolf-npc-generator.vercel.app"><img src="assets/card-werewolf-npc-generator.svg" width="100%" alt="Werewolf NPC Generator: rules roll the character and the Claude API writes its story"></a></td>
   </tr>
 </table>
 
